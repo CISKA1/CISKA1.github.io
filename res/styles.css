@@ -29,15 +29,6 @@ section {
   position: relative;
 }
 
-#logo {
-
-}
-#logo img {
-    display: block;
-    margin-right: auto;
-    margin-left: auto;
-}
-
 .bg-image {
   position: fixed;
   top: 0;
