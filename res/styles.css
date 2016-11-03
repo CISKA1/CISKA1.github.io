@@ -48,7 +48,7 @@ section {
 .bg-image2 {
   background-image: url(/res/logo.png);
   background-attachment: scroll;
-  background-position: 50% 50%;
+  background-position: center top;
   background-size: cover;
   background-repeat: no-repeat;
   opacity: .69;
