@@ -29,6 +29,15 @@ section {
   position: relative;
 }
 
+#logo {
+    position: relative;
+}
+#logo img {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
 .bg-image {
   position: fixed;
   top: 0;
