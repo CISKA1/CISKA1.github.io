@@ -33,6 +33,7 @@ section {
 
 }
 #logo img {
+    position: fixed;
     display: block;
     margin-right: auto;
     margin-left: auto;
