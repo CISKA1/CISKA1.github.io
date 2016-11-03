@@ -36,6 +36,8 @@ section {
     position: absolute;
     top: 0px;
     right: 0px;
+    height: 20%;
+    width: 20%;	  
 }
 
 .bg-image {
