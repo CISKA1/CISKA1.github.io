@@ -45,7 +45,7 @@ section {
   bottom: 0;
   left: 0;
   content: "";
-  z-index: 0;
+  z-index: -1;
 }
 
 .form-horizontal .form-group {
