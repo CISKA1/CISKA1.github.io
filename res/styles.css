@@ -33,11 +33,9 @@ section {
     position: relative;
 }
 #logo img {
-    position: absolute;
-    top: 0px;
-    right: 0px;
+	float: right;
     height: 20%;
-    width: 20%;	  
+    width: 20%;	
 }
 
 .bg-image {
